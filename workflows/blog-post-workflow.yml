@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: adil4474/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/adil4474"
+          feed_list: "https://dev.to/feed/adil4474"
